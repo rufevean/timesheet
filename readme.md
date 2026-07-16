@@ -109,3 +109,9 @@ timesheet/
 ├── requirements.txt   # Python dependencies
 └── .gitignore
 ```
+
+## Future Improvements
+
+- Scheduler
+- Holiday/Leave Awareness
+- Email Notifications
